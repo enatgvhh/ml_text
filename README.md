@@ -16,7 +16,7 @@ Die öffentlichen Einrichtungen in Europa sind durch EU-Richtlinie dazu verpflic
 
 Wir wollen hier der Frage nachgehen, inwieweit sich Machine Learning für die Klassifikation von Metadaten-Dokumenten zu INSPIRE-Themen eignet. Dazu wären zwei Bedingungen vorauszusetzen. Erstens müssten alle Akteure sämtliche Geodatensätze mit Metadaten beschreiben und zweitens müssten sie gemeinsam einen Trainings-Datensatz aufbauen.
 
-Diese Bedingungen sind nicht gegeben. Deshalb habe ich exemplarisch einen eigenen Trainings-Datensatz erstellt. Dieser ist allerdings sehr klein. Die [Trainingsdaten](data/inspire/inspire-train) enthalten Metadaten-Dokumente zu allen 72 Datensätzen, die in Hamburg bereits in das INSPIRE Zielschema transformiert wurden. Die [Testdaten](data/ inspire/inspire-test) sind frei erfunden und enthalten nur 8 Dokumente. Verteilt sind die Metadaten-Dokumente auf 23 INSPIRE-Themen und einer not-INSPIRE Klasse, die aber in der Stichprobe deutlich unterrepräsentiert ist.
+Diese Bedingungen sind nicht gegeben. Deshalb habe ich exemplarisch einen eigenen Trainings-Datensatz erstellt. Dieser ist allerdings sehr klein. Die [Trainingsdaten](data/inspire/inspire-train) enthalten Metadaten-Dokumente zu allen 72 Datensätzen, die in Hamburg bereits in das INSPIRE Zielschema transformiert wurden. Die [Testdaten](data/inspire/inspire-test) sind frei erfunden und enthalten nur 8 Dokumente. Verteilt sind die Metadaten-Dokumente auf 23 INSPIRE-Themen und einer not-INSPIRE Klasse, die aber in der Stichprobe deutlich unterrepräsentiert ist.
 
 
 ## Text-Klassifikation in Python
@@ -33,7 +33,7 @@ from sklearn.linear_model import SGDClassifier
 from sklearn import metrics
 from sklearn.model_selection import GridSearchCV
 ```
-Dann lesen wir die [Trainingsdaten](data/inspire/inspire-train) und die [Testdaten](data/ inspire/inspire-test) ein.
+Dann lesen wir die [Trainingsdaten](data/inspire/inspire-train) und die [Testdaten](data/inspire/inspire-test) ein.
 ```
 meta_train = load_files(r'D:\ML_TextMining\data_inspire\inspire-train', shuffle=True, encoding='utf-8', random_state=42)
 meta_test = load_files(r'D:\ML_TextMining\data_inspire\inspire-test', shuffle=True, encoding='utf-8', random_state=42)
@@ -125,7 +125,7 @@ Tabellen 1-3
 
 Nun müssen wir noch die A-priori-Chance für die Klasse us-gov schätzen, indem wir die Anzahl der Trainingsdokumente in Klasse us-gov ins Verhältnis zur Summe der Trainingsdokumente der übrigen Klassen setzen (7 : 65). Da wir wissen, dass die Klasse not-inspire in der Stichprobe unterrepräsentiert ist, ändern wir die A-priori-Chance auf 7 : 165.
 
-Die A-priori-Chance wird nun mit den Wahrscheinlichkeits-Verhältnissen der 4 Wörter multipliziert (7/165*3,247*3,402*14,288*2,598=17,4) und daraus die Wahrscheinlichkeit berechnet, mit der das Dokument der Klasse us-gov zuzuordnen ist. Diese beträgt 95% (17,4/(17,4+1).
+Die A-priori-Chance wird nun mit den Wahrscheinlichkeits-Verhältnissen der 4 Wörter multipliziert (7/165\*3,247\*3,402\*14,288\*2,598=17,4) und daraus die Wahrscheinlichkeit berechnet, mit der das Dokument der Klasse us-gov zuzuordnen ist. Diese beträgt 95% (17,4/(17,4+1).
 
 
 ## Optimierung der Text-Klassifikation
@@ -178,4 +178,4 @@ print(metrics.classification_report(y_train, text_svm.predict(X_train)))
 ## Summary
 Wir haben uns in den vorherigen Kapiteln etwas mit der Text-Klassifizierung beschäftigt, die Komplexität dieses Prozesses erahnen können und ein Gespür für das Zitat  von [George Box]( https://de.wikipedia.org/wiki/George_Box) *„Ihrem Wesen nach sind alle Modelle falsch, aber einige sind nützlich.“* bekommen. Eine gute Einführung in die Materie ist in dem Tutorial [Working With Text Data]( https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html) zu finden.
 
-Wir wollten mit unserem Experiment die Frage beantworten, ob sich dieser Ansatz zur Klassifizierung von Metadaten-Dokumenten zu INSPIRE-Themen eignet. Bei einem Datensatz mit einer ausreichend großen Anzahl von Dokumenten, kann dies durchaus bejaht werden. Das Beste wäre allerdings, man würde INSPIRE, dieses völlig sinnlose Unterfangen, das Ende 2020 fertig sein soll, im Jahr 2021 einfach vergessen.
+Wir wollten mit unserem Experiment die Frage beantworten, ob sich dieser Ansatz zur Klassifizierung von Metadaten-Dokumenten zu INSPIRE-Themen eignet. Bei einem Datensatz mit einer ausreichend großen Anzahl von Dokumenten, kann dies durchaus bejaht werden. Allerdings vergisst man INSPIRE besser, nachdem es Ende 2020 ganz fertig ist.
