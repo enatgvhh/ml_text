@@ -1,0 +1,17 @@
+Keywords:
+Schule, Bildung, Sekundarstufe, Gymnasium, Point, Vectordaten
+
+Types:
+staatliche schulen
+
+Desc:
+Schulstammdaten und Schülerzahlen der Hamburger Schulen:
+Schulstandorte Hamburg
+Für jede Schule und ggf. ihre Zweigstellen werden dargestellt:
+- Adresse (Straße, Hausnummer, PLZ, Ort, Geoposition)
+- Kontaktdaten (Telefon, E-Mail-Funktionspostfach, Fax, Homepage)
+- Schulmerkmale (Schulnummer, Zweigstelle ja/nein, Schulform nach Haushaltskapitel, Erwachsenenbildung ja/nein, Telefonnummer der Schulaufsicht, zugehöriger ReBBZ-Standort)
+- Zahl der Schüler
+
+Ansprechpartner:
+Behörde für Schule und Berufsbildung

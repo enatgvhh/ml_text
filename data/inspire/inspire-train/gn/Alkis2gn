@@ -1,0 +1,18 @@
+Keywords:
+Name, Geographischer Name, Geographische Bezeichnung, AAA, ALKIS, Vectordaten
+
+Types:
+alkis Objektarten
+
+Desc:
+ALKIS Daten des Amtlichen Liegenschaftskataster Informationssystem Hamburg:
+ALKIS
+
+Im Amtlichen Liegenschaftskatasterinformationssystem (ALKIS®) werden alle Daten des Liegenschaftskatasters zusammengeführt und integriert gepflegt. Damit sind Daten der ehemaligen Liegenschaftskarte, des ehemaligen Liegenschaftsbuches und des Grenznachweises in ALKIS enthalten. Basis für ALKIS® ist ein von der Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) entwickeltes Fachkonzept zur Führung aller Basisdaten des amtlichen Vermessungswesens (siehe Verweis). Zusätzlich werden besondere Themenbereich in Objektartengruppen zusammengefasst und innerhalb von ALKIS als Objekt abgelegt. Dazu gehören u.a. die Abgrenzungen der Sanierungs- und Umlegungsgebiete, Hinweise auf Denkmalschutz u.ä.
+Alle Bundesländer haben sich verpflichtet einen ALKIS-Grunddatenbestand nach diesem Konzept zu führen. Zusätzlich gibt es entsprechend dem Datenmodell länderspezifische Daten.
+Daten zu folgende Objektartenbereichen (OAB) sind im Datenmodell enthalten: Flurstücke/Lage/Punkte, Tatsächliche Nutzung, Gebäude, Bauwerke/Einrichtungen/sonstige Angaben, Eigentümer, Gesetzliche Festlegungen/Gebietseinheiten/Kataloge, Relief, Nutzerprofile, Migration. Die OAB sind weiter unterteilt und enthalten u.a. Angaben zu Adressen, Eigentümern, Flurstücksnummern, Flurstücksgrenzen, Flurstücksflächen, Grenzpunkten, Verwaltungseinheiten, Gewässer, Bauwerken, Baublöcken, Straßenbegrenzungslinien, Schutzgebieten, Bodennutzung, Bodenschätzung, Nummer der Baulastenakten, gesetzliche Festlegungen, öffentlich-rechtliche Verfahren, Topographie, Signaturen und geografische Namen. Eine exakte Beschreibung des Datenmodells (GeoinfoDok) ist unter www.adv-online.de zu entnehmen.
+
+Ansprechpartner:
+Landesbetrieb Geoinformation und Vermessung (LGV) Hamburg 
+Geschäftsbereich Liegenschaftskataster 
+Datenvertrieb und Nutzungsrechte

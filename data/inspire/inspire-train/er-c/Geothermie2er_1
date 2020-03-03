@@ -1,0 +1,17 @@
+Keywords:
+Untergrund, Temperatur, Teufe, Rasterdaten, Coverage
+
+Types:
+temperatur in 100 m unter gelaende
+
+Desc:
+Temperatur in 100 m unter Gelände:
+Karte zur Temperaturverteilung in einer Tiefe von 100 m unter Gelände.
+
+Datengrundlage sind gemessene Temperaturprofile an ca. 130 tiefen Grundwassermessstellen. Diese Temperaturprofile dienen als Grundlage für die Konstruktion und Interpolation (Kriging) eines 3D Temperaturmodells für den mitteltiefen Untergrund Hamburgs (Damerau, 2013). Mit Hilfe des Temperaturmodells wurde eine Flächenkarte der natürlichen Temperaturverteilung in der Tiefe von 100 m unter Gelände entwickelt.
+
+Ansprechpartner:
+Behörde für Umwelt und Energie (BUE)
+Wasser, Abwasser und Geologie (W)
+Geologisches Landesamt
+Angewandte Geowissenschaften - Information und Beratung

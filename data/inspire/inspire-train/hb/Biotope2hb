@@ -1,0 +1,26 @@
+Keywords:
+Habitat, Biotop, Lebensraum, Verbreitung, Vectordaten
+
+Types:
+flaechenhafte biotope teilweise geschuetzt, flaechenhafte biotope vollstaendig geschuetzt, flaechenhafte biotope weitere, linenhafte biotope weitere, linienhafte biotope teilweise geschuetzt, linienhafte biotope vollstaendig geschuetzt, punkthafte biotope vollstaendig geschuetzt, punkthafte biotope weitere
+
+Desc:
+Biotopkataster Hamburg:
+Daten und Karten zu Lebensräumen von Pflanzen und Tieren unter besonderer Berücksichtigung der gesetzlich geschützten Biotope, die nicht mehr gesondert aufgeführt werden.
+Grundlage für die Datenerfassung der Biotope/Lebensräume von Hamburg sind die "Kartieranleitung und Biotoptypenschlüssel für die Biotopkartierung Hamburg" sowie die "Biotopbewertung für die Biotopkartierung Hamburg".
+Beide sind als Downloaddatei im PDF-Format unter https://www.hamburg.de/details-der-biotopkartierung/ zu finden. Hier wird die Biotopkartierung auch kurz erläutert.
+
+Trotz Plausibilitätsprüfungen kann keine Gewähr auf Vollständigkeit oder Richtigkeit der Daten gegeben werden. Für den Vollzug des gesetzlichen Biotopschutz ist immer der Ist-Zustand eines Biotops in der Natur entscheidend.
+
+WMS-Kartendienste: Die diesen Daten zugrundeliegenden Datensätze sind abgeleitet aus einer Modellierung, die zu einer flächendeckenden Abbildung einer überlagerungsfreien Ebene führt. Dazu wurden die Daten der Gesamt-Datenbank des Biotopkatasters Hamburg verwendet, die die Jahrgänge 2005 bis 2017 (tlw.) wiedergeben. Hierbei kann es zu Abweichungen der Größenangaben gegenüber derjenigen im Erhebungsbogen kommen. Maßgeblich sind die Größenangaben in den Erhebungsbögen. Zu dem WMS-Kartendienst gibt es eine GML-Datei entsprechend dem WMS-Kartendienst.
+
+Downloadbereich:
+Außerdem wird eine GML-Dateien mit erweiterter Attributtabelle und aller Jahrgänge zur Verfügung gestellt (gezipt, im Downloadbereich, Link siehe oben), die die geografischen Daten der Biotope sowie deren wesentlichen beschreibenden Daten mit Ausnahme der Pflanzenartenlisten zu den einzelnen Biotopen beinhalten. Die GML-Dateien können in geografische Infosysteme (GIS) eingebunden werden. Die Anleitung hierzu befindet sich im Downloadbereich des Transparenzportals zum Biotopkataster Hamburg (Link: http://suche.transparenz.hamburg.de/dataset/biotopkataster9?forceWeb=true).
+
+Alle Informationen zu einem Biotop können dem dazugehörigen Erhebungsbogen entnommen werden, der ebenfalls im Downloadbereich des Transparenzportals als Zipdatei bereitgestellt ist. Die Bögen sind über die DK5, Biotop-Nr. und das Kartierdatum (z.B. 6620 317 080716.pdf) den Biotopen zugeordnet.
+
+Ansprechpartner:
+Behörde für Umwelt und Energie (BUE)
+Naturschutz, Grünplanung und Bodenschutz (N)
+N3 - Naturschutz
+N 33 - Arten- und Biotopschutz

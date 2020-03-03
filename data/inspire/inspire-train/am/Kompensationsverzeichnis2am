@@ -1,0 +1,26 @@
+Keywords:
+Ausgleich, Eingriff, Ausgleichsfläche, Kompensation, Maßnahme, Management, Vectordaten
+
+Types:
+ausgleichsflaechen
+
+Desc:
+Ausgleichsflächen gemäß Bundesnaturschutzgesetz (Kompensationsverzeichnis):
+
+Ausgleichsflächen
+
+Dieser Datensatz enthält aus Datenschutzgründen nur eine Teilmenge der Ausgleichsflächen des Hamburger Kompensationsverzeichnisses. Diese Daten enthalten alle Ausgleichsflächen aus großen Eingriffsvorhaben, aus der Bauleitleitplanung sowie Ökokontoflächen gemäß §16 BNatSchG in Verbindung mit der Hamburger Ökokontoverordnung.
+Zusätzlich werden Maßnahmenflächen gem. §9 (1) Nr. 20 BauGB dargestellt.
+
+Die Maßnahmenflächen gemäß BauGB sind keine naturschutzrechtlichen Ausgleichsmaßnahmen, sondern werden in Bebauungsplänen ohne Zuordnung als „Flächen zum Schutz, zur Pflege und zur Entwicklung von Boden, Natur und Landschaft“ festgesetzt, um andere Nutzungen oder Bebauung auf diesen Flächen planerisch auszuschließen.
+
+Das Kompensationsverzeichnis basiert auf der Rechtsgrundlage des Bundesnaturschutzgesetzes. Nach §17 Abs. 6 BNatSchG werden die Ausgleichs- und Ersatzmaßnahmen und die dafür in Anspruch genommenen Flächen in diesem Verzeichnis erfasst. Darüber hinaus werden Angaben zum jeweiligen Eingriff gespeichert.
+In der Datenbank sind Eingriffsart, Eingriffsbeschreibung sowie Ausgleichs- und Ersatzmaßnahmen beschrieben. Diese Daten sind mit einem GIS-Programm verknüpft, in dem die entsprechenden Flächen kartografisch dargestellt sind.
+
+Vor der Novellierung des Bundesnaturschutzgesetzes 2009 wurde das Kompensationsverzeichnis "Eingriffskataster" genannt. Die Rechtsgrundlage war das Hamburgische Naturschutzgesetz.
+
+Ansprechpartner:
+Behörde für Umwelt und Energie (BUE)
+Naturschutz, Grünplanung und Bodenschutz (N)
+N3 - Naturschutz
+N 32 - Eingriffsregelung, Sondervermögen Naturschutz und Landschaftspflege

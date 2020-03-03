@@ -1,0 +1,27 @@
+Keywords:
+Wärmekataster, Wärmebedarf, Energieverbrauch
+
+Types:
+waerme
+
+Desc:
+Wärmekataster Wärmebedarf Hamburg:
+Der Datensatz „Wärmebedarf“ des Wärmekatasters stellt den Nutzwärmebedarf (Abk.: NWB - Wärmebedarf für Heizung und Warmwasser) des Hamburger Gebäudebestandes in aggregierter Form dar. Der (Nutz-) Wärmebedarf des Hamburger Gebäudebestands wird auf Baublock-Ebene und auf Cluster-Ebene angezeigt. Zudem kann man zwischen zwei Sanierungsstufen wählen:
+
+1. „Unsaniert“ impliziert einen Gebäudezustand, der keine wärmetechnischen Modernisierungen aufweist (abgesehen von einem einfachen Fenstertausch)
+2. „Saniert“ nimmt eine konventionelle Sanierung aller Gebäude (nach ENEV 2014) an.
+
+Die Darstellung und Kategorisierung kann wie folgt gewählt werden:
+
+1. Gesamtbedarf aller Wohn- und Nichtwohngebäude der Einheit Cluster oder Baublock; in Megawattstunden pro Jahr [MWh/a]
+2. Spezifischer Wärmebedarf der Wohngebäude (Cluster); in Kilowattstunden pro Quadratmeter Nutzfläche und Jahr [kWh/m² a]
+3. „Wärmedichte im Baublock“; Gesamtbedarf aller Wohn- und Nichtwohngebäude (wie Nr.1) dividiert durch die Grundfläche des jeweiligen Baublocks; in Kilowattstunden pro Quadratmeter Baublockgrundfläche und Jahr [kWh/m² a]
+
+Detaillierte Informationen können Sie dem Wärmekataster Handbuch entnehmen.
+
+Ansprechpartner:
+Behörde für Umwelt und Energie (BUE)
+Energie und Klima (E)
+E1 - Energie
+E 13 - Erneuerbare Energien - Wärmekonzepte
+Wärmekataster Hamburg

@@ -1,0 +1,23 @@
+Keywords:
+Verkehrsnetz, Verkehr, AAA, ATKIS, Vectordaten
+
+Types:
+atkis Objektarten
+
+Desc:
+ATKIS Digitales Basis Landschaftsmodell Hamburg:
+Digitale Landschaftsmodelle
+
+Das Digitale Basis-Landschaftsmodell (Basis-DLM) orientiert sich am Basismaßstab 1: 25 000. Es wird für alle Objekte eine Lagegenauigkeit von ± 3 m angestrebt. Es hat eine Informationstiefe, die über die Darstellung der Digitalen Stadtkarte von Hamburg (1: 20 000) hinausgeht. 
+Der Inhalt und die Modellierung der Landschaft des Basis-DLM sind im ATKIS®-Objektartenkatalog (ATKIS®-OK Basis-DLM) beschrieben. 
+Die Erfassung der Objektarten, Namen, Attribute und Referenzen erfolgte in drei aufeinander folgenden Realisierungsstufen, die im ATKIS®-OK Basis-DLM ausgewiesen sind. 
+In Hamburg stehen die Realisierungsstufen für die gesamte Landesfläche seit 2007 aktuell zur Verfügung. Seit Oktober 2009 wird das Basis-DLM im bundeseinheitlichen AAA-Modell geführt.
+
+Die Objektarten sind ATKIS-OK enthalten (siehe Verweis). 
+
+Besonders geeignet als geometrische und semantische Bezugsgrundlage für den Aufbau von Geoinformationssystemen und zur Verknüpfung mit raumbezogenen fachspezifischen Daten für Fachinformationssysteme, zur rechnergestützten Verschneidung und Analyse mit thematischen Informationen, für Raumplanungen aller Art und zur Ableitung von topographischen und thematischen Karten.
+Anwendungsgebiete sind alle Aufgabenbereiche, für deren Fragestellungen ein Raumbezug erforderlich ist, unter anderem Energie-, Forst- und Landwirtschaft, Verwaltung, Demographie, Wohnungswesen, Landnutzungs-, Regional- und Streckenplanung, Straßenbau und Bewirtschaftung, Facility Management, Verkehrsnavigation und Flottenmanagement, Transport, Bergbau, Gewässerkunde und Wasserwirtschaft, Ökologie, Umweltschutz, Militär, Geologie und Geodäsie, aber auch Kultur, Erholung und Freizeit sowie Kommunikation.
+
+Ansprechpartner:
+Landesbetrieb Geoinformation und Vermessung (LGV) Hamburg 
+Geschäftsbereich Liegenschaftskataster 

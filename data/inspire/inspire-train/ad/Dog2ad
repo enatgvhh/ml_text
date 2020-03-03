@@ -1,0 +1,15 @@
+Keywords:
+Adressen, Hauskoordinaten, Point, Vectordaten
+
+Types:
+adress
+
+Desc:
+Zentraler AdressService Hamburg:
+Der Zentraler AdressService Hamburg ist ein Gazetteer-Web-Dienst, der auf einer Gazetteer-Datenbank aufsetzt, und damit die Adressdaten anderen Anwendungen zur Verfügung stellt. Dieser Dienst hat einen für Hamburg einheitlichen tagesaktuellen, konsistenten und georeferenzierten Adressdatenbestand.
+Der Gazetteer-Dienst basiert auf dem Datenmodell des Deutschland-Online Gazetteer (DOG).
+
+Ansprechpartner:
+Landesbetrieb Geoinformation und Vermessung (LGV) Hamburg
+Geschäftsbereich Liegenschaftskataster
+LGV Support

@@ -1,0 +1,31 @@
+Keywords:
+DGM, XYZ Daten, Höhendaten
+
+Types:
+dgm
+
+Desc:
+Digitales Höhenmodell Hamburg DGM 1:
+
+Digitale Geländemodelle
+
+Abgeleitetes, flächendeckendes digitales Geländemodell mit einer Rasterweite von 1 Meter.
+
+Für die Fläche der Freien und Hansestadt Hamburg (ohne das Gebiet des hamburgischen Wattenmeeres) wurde in 2010 eine Laserscanvermessungen (Airborne Laserscanning) durchgeführt. Die Daten liegen im Lagestatus 310 (ETRS89/UTM) vor, mit Höhenangaben über Normalhöhennull (NHN), gemäß DE_DHHN2016_NH. Die Genauigkeit eines einzelnen Messpunktes liegt in eindeutig definierten Bereichen, wie z.B. auf Straßenflächen, bei ca. ± 7 cm. In Bereichen von Vegetation, insbesondere Flächen in Wald- und Strauchgebieten, ist die Genauigkeit geringer.
+
+Aus diesen Daten wird das Digitale Geländemodell (DGM) in Form eines regelmäßigen Rasters abgeleitet. Diese Modellgeneralisierung hat Einfluss auf die Genauigkeit der Daten. Standardmäßig werden vom LGV folgende Rasterweiten angeboten:
+
+DGM 1 (Rasterweite 1m),
+DGM 10 (Rasterweite 10m),
+DGM 25 (Rasterweite 25m).
+
+Eine jährliche Aktualisierung dieser Daten erfolgt über Luftbildbefliegungen.
+
+Neben der reinen Bereitstellung der Höheninformation als regelmäßiges Gitter werden die Daten auch als Dienstleistung in einer Dreiecksvermaschung (TIN) abgegeben. Dabei ist ein Datenaustausch mit 2D- und 3D-CAD-Systemen sichergestellt. Als weitere Dienstleistung können z.B. Höhenlinien und Profile ableitet oder Volumina und Neigungen errechnet werden. Durch Integration weiterer Geobasis- und Fachdaten (Vektor- und Rasterdaten) können weitere Dienstleistungen z.B. für die Bereiche Wasserwirtschaft, Tiefbau, Umwelt und Stadtplanung sowie Energieversorgung groß- und kleinräumige Anwendungen abgeleitet werden.
+
+Der verwendete WMS-Visualisierungsdienst (siehe Verweise) wurde auf der Basis des länderübergreifenden Datenbestandes (10m Raster) des Bundesamtes für Kartographie und Geodäsie (BKG) gerechnet.
+
+
+Ansprechpartner:
+Landesbetrieb Geoinformation und Vermessung (LGV) Hamburg
+Geschäftsbereich Geodatenservice
