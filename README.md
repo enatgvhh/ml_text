@@ -121,7 +121,7 @@ print('proba us-gov pos:', r/(r+1))
 Zunächst ermitteln wir die Häufigkeit der 4 Wörter in den beiden Klassen des Trainings-Datensatzes und bilden die Summe je Klasse (vgl. Tabelle 1). Ermitteln die relative Häufigkeit in Bezug auf die Klassensumme (vgl. Tabelle 2), die hier als Eintrittswahrscheinlichkeit innerhalb einer Klasse zu verstehen ist. Und berechnen das Wahrscheinlichkeitsverhältnis der Klassen us-gov : rest (vgl. Tabelle 3). Wir sehen, das Wort 'point' hat den stärksten Einfluss. Das passt, da die Klasse us-gov viele Datensätze mit Punkt-Geometrien (Keyword point) enthält.
 
 ![bayesTheorem.jpg](img/bayesTheorem.jpg)
-Tabellen 1-3: Wahrscheinlichkeiten
+Tabellen 1-3
 
 Nun müssen wir noch die A-priori-Chance für die Klasse us-gov schätzen, indem wir die Anzahl der Trainingsdokumente in Klasse us-gov ins Verhältnis zur Summe der Trainingsdokumente der übrigen Klassen setzen (7 : 65). Da wir wissen, dass die Klasse not-inspire in der Stichprobe unterrepräsentiert ist, ändern wir die A-priori-Chance auf 7 : 165.
 
